@@ -1,3 +1,9 @@
 .font-manrope{
     font-family: "Manrope", sans-serif;
 }
+.client-section button
+{
+   -webkit-background-clip: text; 
+   background-clip: text;
+   color: transparent;
+}
